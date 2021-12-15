@@ -1,0 +1,7 @@
+C:\Users\damaro\examen-1er-2021\GestionDeRestaurant\GestionDeRestaurant\bin\Debug\GestionDeRestaurant.exe.config
+C:\Users\damaro\examen-1er-2021\GestionDeRestaurant\GestionDeRestaurant\bin\Debug\GestionDeRestaurant.exe
+C:\Users\damaro\examen-1er-2021\GestionDeRestaurant\GestionDeRestaurant\bin\Debug\GestionDeRestaurant.pdb
+C:\Users\damaro\examen-1er-2021\GestionDeRestaurant\GestionDeRestaurant\obj\Debug\GestionDeRestaurant.csprojAssemblyReference.cache
+C:\Users\damaro\examen-1er-2021\GestionDeRestaurant\GestionDeRestaurant\obj\Debug\GestionDeRestaurant.csproj.CoreCompileInputs.cache
+C:\Users\damaro\examen-1er-2021\GestionDeRestaurant\GestionDeRestaurant\obj\Debug\GestionDeRestaurant.exe
+C:\Users\damaro\examen-1er-2021\GestionDeRestaurant\GestionDeRestaurant\obj\Debug\GestionDeRestaurant.pdb
