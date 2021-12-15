@@ -5,3 +5,7 @@ Licence Appliquée 2ème Développement de Système d'Information(DSI).
 
 ## Enoncé
 ![enonce](enonce.jpg)
+
+## Exécution
+
+![execution](GestionDeRestaurant/execution.png)
